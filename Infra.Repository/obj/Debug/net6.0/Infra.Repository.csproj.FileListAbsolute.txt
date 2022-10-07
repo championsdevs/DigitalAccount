@@ -1,0 +1,15 @@
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.deps.json
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Domain.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Domain.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.AssemblyReference.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.AssemblyInfoInputs.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.AssemblyInfo.cs
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.CoreCompileInputs.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.CopyComplete
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\refint\Infra.Repository.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Infra.Repository\obj\Debug\net6.0\ref\Infra.Repository.dll

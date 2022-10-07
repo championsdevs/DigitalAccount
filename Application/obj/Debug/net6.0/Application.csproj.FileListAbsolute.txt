@@ -1,0 +1,15 @@
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\bin\Debug\net6.0\Application.deps.json
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\bin\Debug\net6.0\Application.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\bin\Debug\net6.0\Application.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\bin\Debug\net6.0\Domain.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\bin\Debug\net6.0\Domain.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\refint\Application.dll
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\Application.pdb
+D:\github\ChampionsDevs\Conteudos\DigitalAccount\Application\obj\Debug\net6.0\ref\Application.dll
