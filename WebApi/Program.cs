@@ -2,6 +2,7 @@ using Application.UseCases.AddCustomer;
 using Domain.Contracts.Repositories.AddCustomer;
 using Domain.Contracts.UseCases.AddCustomer;
 using FluentValidation;
+using Infra.Repository.DbContext;
 using Infra.Repository.Repositories.AddCustomer;
 using System.Globalization;
 using WebApi.Models.AddCustomer;
@@ -15,7 +16,8 @@ namespace WebApi
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddSingleton<IAddCustomerRepository, AddCustomerRepository>();
+            builder.Services.AddSingleton<IDbContext, DbContext>();
+            builder.Services.AddScoped<IAddCustomerRepository, AddCustomerRepository>();
             builder.Services.AddScoped<IAddCustomerUseCase, AddCustomerUseCase>();
             builder.Services.AddTransient<IValidator<AddCustomerInput>, AddCustomerInputValidator>();
 
