@@ -7,10 +7,17 @@
             Name = name;
             Email = email;
             Document = document;
-        } 
+        }
 
         public string Name { get; private set; }
         public string Email { get; private set; }
         public string Document { get; private set; }
+
+        public enum CustomerType
+        {
+            Undefined = 0,
+            Physical = 1,
+            Juridical = 2
+        }
     }
 }
